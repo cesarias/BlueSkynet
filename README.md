@@ -1,5 +1,6 @@
 <img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
 
+
 # 🧠 Blue Skynet: AI Defense Cloud Infrastructure
 
 Welcome to **Blue Skynet**, a fictional AI defense technology startup focused on protecting next-generation networks using machine learning and proactive cloud security. This project simulates the **entire cloud journey** of a startup — from day one infrastructure setup, to monitoring, budgeting, and compliance.
@@ -34,8 +35,26 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 ## 🧱 Architecture Overview
 
-!\[Architecture Diagram Placeholder]
-*Insert full Azure architecture diagram with VMs, Key Vault, Sentinel, NSGs, Entra ID, and cost controls here.*
+<img width="600" alt= "image" src="https://i.imgur.com/kPjecBb.png">
+
+**Website Hosting (Production Simulation):**
+
+* Hosted via **Azure Static Web Apps** or **Blob Storage (Static Site)**
+* Protected by:
+
+  * **HTTPS-only access**
+  * **Azure Front Door** (optional WAF and geo-filtering)
+  * **Private endpoint** or **IP restriction**
+  * **Entra ID authentication** (optional RBAC login per role)
+
+**Optional Security Add-Ons:**
+
+* Key Vault integration (store site secrets or keys securely)
+* Azure Policy to block insecure or non-compliant deployments
+* Microsoft Sentinel alerts for public access or failed login patterns
+* Application Insights for user behavior logging
+
+
 
 **Core Azure Components:**
 
@@ -60,11 +79,8 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 💬 **Staff Interaction (CEO):**
 
-> "We need this live by end of the week — but I can't afford a surprise Azure bill. Show me a plan and a budget alert."
+<img width="600" alt= "image" src="https://i.imgur.com/pfKKREn.jpeg">
 
-🧑‍💻 **My Response (Cloud Architect):**
-
-> "Absolutely. I’ve already scoped out a low-cost environment using B1s VMs with auto-shutdown and budget alerts configured in Cost Management. You’ll have daily visibility into spend.""We need this live by end of the week — but I can't afford a surprise Azure bill. Show me a plan and a budget alert."
 
 📸 **Capture:**
 
@@ -219,6 +235,37 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 ---
 
+## 🧩 Web Hosting & Protection in Azure
+
+To simulate real-world hosting and security, the Blue Skynet GitHub Pages site is deployed in Azure using a hardened and production-aware design.
+
+### 🚀 Use Case
+
+> "To simulate real-world hosting, I deployed the Blue Skynet website on Azure Static Web Apps, integrated Entra ID for login, and restricted HR dashboard access via role-based auth. Logging and alerts are managed through Application Insights and Sentinel."
+
+### 🧰 Azure Hosting Stack
+
+* **Azure Static Web Apps**: Public-facing GitHub Pages deployment with continuous integration
+* **HTTPS-Only**: Secured transport layer enforced
+* **Azure Front Door**: Optional DDoS protection, routing, and WAF
+* **Private Endpoint / IP Restrictions**: Limit access by network
+* **Entra ID Authentication**: Optional role-based login simulation (HR, Intern, Dev)
+
+### 🔐 Security Enhancements
+
+* **Key Vault**: Protect site credentials, secrets
+* **Azure Policy**: Block deployments without HTTPS or encryption
+* **Microsoft Sentinel**: Log access attempts and alerts on anomalies
+* **Application Insights**: Log site usage patterns and behaviors
+
+📸 **Capture:**
+
+* [ ] Static site deployment view in Azure portal — *show Static Web App or Blob config*
+* [ ] Entra ID login screen (if implemented)
+* [ ] Sentinel or App Insights logs related to web access
+
+---
+
 ## ✅ Summary
 
 This project presents a **comprehensive cloud infrastructure simulation** for a fictional startup, incorporating real security, governance, and identity techniques. All while tracking costs and showcasing readiness for cloud + AI certification roles.
@@ -226,4 +273,17 @@ This project presents a **comprehensive cloud infrastructure simulation** for a 
 ---
 
 > 💡 Next Phase: Add Azure OpenAI integration + AI app logic for full AI-102 coverage
+
+
+
+
+
+
+
+
+
+
+
+
+
 
