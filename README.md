@@ -146,8 +146,7 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 📨 **Internal Email (to CEO):**
 
-> *Subject: Azure Budget Controls Configured*
-> *"Hi Alicia, I’ve set the monthly Azure budget at \$25. Alerts will trigger at 80%. I've also exported a sample cost chart you can review in our shared folder."*
+<img width="600" alt= "image" src="https://i.imgur.com/3yBQua9.jpeg">
 
 📸 **Capture:**
 
