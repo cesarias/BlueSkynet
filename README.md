@@ -97,13 +97,7 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 ### 2. 👥 Identity & Access
 
-💬 **Staff Interaction (HR Manager):**
-
-> "I need secure access to employee contracts, but Jordan (intern) should not be able to see these. Can we set that up in the portal?"
-
-🧑‍💻 **My Response (Cloud Architect):**
-
-> "Yes, I’ll configure Entra ID with role-based access and assign you exclusive permissions to the HR file share while isolating intern access to a test VM only.""I need secure access to employee contracts, but Jordan (intern) should not be able to see these. Can we set that up in the portal?"
+<img width="600" alt= "image" src="https://i.imgur.com/LGJ9hus.png">
 
 📸 **Capture:**
 
