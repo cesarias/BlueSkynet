@@ -109,15 +109,8 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 ### 3. 🛡️ Security Hardening
 
-💬 **Staff Interaction (AI Lead):**
+<img width="600" alt= "image" src="https://i.imgur.com/1NEG9Q8.jpeg">
 
-> "Security is non-negotiable. Can you guarantee our Key Vault secrets and encrypted model storage won't get leaked?"
-
-🧑‍💻 **My Response (Cloud Architect):**
-
-> "Definitely. I’ve configured Azure Key Vault with RBAC, enabled logging and soft delete, and enforced encryption policies across all storage accounts via Azure Policy-as-Code.""Security is non-negotiable. Can you guarantee our Key Vault secrets and encrypted model storage won't get leaked?"
-
-📸 **Capture:**
 
 * [ ] Key Vault creation and secrets stored — *show access policies and key names*
 * [ ] PowerShell script being executed on VM — *screenshot script output*
