@@ -252,13 +252,43 @@ To simulate real-world hosting and security, the Blue Skynet GitHub Pages site i
 
 ---
 
-## ✅ Summary
+# 🌟 Blue Skynet Project Wrap-Up & Roadmap
 
-This project presents a **comprehensive cloud infrastructure simulation** for a fictional startup, incorporating real security, governance, and identity techniques. All while tracking costs and showcasing readiness for cloud + AI certification roles.
+## 🔺 Project Wrap-Up
+
+The **Blue Skynet** project successfully simulates a realistic cloud security deployment for a fictional AI defense startup. The core infrastructure was designed and deployed using Microsoft Azure services and hardened to reflect real-world compliance, cost control, and monitoring requirements.
+
+### 🌟 Key Wins:
+
+* Built a secure, scalable Azure infrastructure from scratch
+* Applied DISA STIGs and ran Nessus vulnerability scans
+* Integrated Microsoft Sentinel for incident detection and alerting
+* Configured Azure Key Vault, Defender for Cloud, and RBAC controls
+* Simulated internal workflows and access policies using role-based scenarios
+* Mapped to real-world certifications: **AZ-104, AZ-305, AZ-500, AI-900, SC-200**
+* Demonstrated alignment with **NIST 800-53** controls such as SC-12, AC-2, AU-2, CA-7, and SI-2
+
+This project serves as a dynamic learning artifact, a professional portfolio piece, and a strong demonstration of cloud security and infrastructure skills.
 
 ---
 
-> 💡 Next Phase: Add Azure OpenAI integration + AI app logic for full AI-102 coverage
+## 🔭 What's Next for Blue Skynet?
+
+Blue Skynet was designed with future extensibility in mind. The following enhancements can build on the foundation and expand coverage for additional certifications and real-world scenarios:
+
+* 🤖 **Azure OpenAI Integration**: Simulate secure AI services (e.g., chatbots, document classification) for AI-102 use cases
+* 📈 **Compliance Dashboard**: Build a visual matrix linking STIG/NIST controls to resource configurations and audit status
+* 🚀 **CI/CD Pipelines**: Use GitHub Actions or Azure DevOps to automatically deploy Bicep templates and update policies
+* 📄 **Internal Chatbox Simulation**: Add an Azure Bot (or static front-end) to simulate internal staff communication via a portal
+* 📊 **Web App Enhancements**: Convert the current static site to a role-based dashboard (e.g., HR Portal, Intern Sandbox)
+* 🚫 **Access Review Workflows**: Add Azure Entitlement Management and Privileged Identity Management (PIM)
+* 🚨 **M365 Defender Simulation (SC-200)**: Extend threat detection by simulating attacks or alerts in Defender for Endpoint, Office 365, or Cloud Apps
+
+> ✨ *Blue Skynet is not a static lab—it's a living platform to grow your real-world skillset and expand toward DevSecOps, AI security, and compliance-driven cloud deployments.*
+
+---
+
+
 
 
 
