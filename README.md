@@ -125,9 +125,9 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 ### 4. 🔍 Monitoring & Logging
 
-📨 **Internal Slack (to AI Lead & Dev):**
+<img width="600" alt= "image" src="https://i.imgur.com/ofcoDb9.png">
 
-> *"Sentinel is live. Log Analytics connected. I’ve added an alert for failed RDP attempts and will demo dashboard tomorrow. Let me know if you want anomaly detection added too."*
+
 
 📸 **Capture:**
 
