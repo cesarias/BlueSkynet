@@ -1,6 +1,6 @@
 <img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
 
-
+🏗️🚧👷‍♂️ UNDER CONSTRUCTION 🚧🏗️👷‍♂️
 # 🧠 Blue Skynet: AI Defense Cloud Infrastructure
 
 Welcome to **Blue Skynet**, a fictional AI defense technology startup focused on protecting next-generation networks using machine learning and proactive cloud security. This project simulates the **entire cloud journey** of a startup — from day one infrastructure setup, to monitoring, budgeting, and compliance.
@@ -11,7 +11,7 @@ You are the **Cloud Architect/Security Engineer** responsible for designing and 
 
 ## 🌐 Live Website
 
-**Demo URL:** [https://your-website-url.com](https://your-website-url.com)
+**Demo URL:** [https://your-website-url.com](blue-skynet-webapp-b8c2cyfucxemaqas.eastus2-01.azurewebsites.net)
 *(Note: Replace with your deployed static site or web app URL)*
 
 ---
