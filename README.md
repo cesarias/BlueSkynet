@@ -11,10 +11,8 @@ You are the **Cloud Architect/Security Engineer** responsible for designing and 
 
 ## 🌐 Live Website
 
-**Demo URL:** [Blue SkyNet ](blue-skynet-webapp-b8c2cyfucxemaqas.eastus2-01.azurewebsites.net)
-*(Note: Replace with your deployed static site or web app URL)*
+**Demo URL:** [Blue SkyNet ](https://blue-skynet-webapp-b8c2cyfucxemaqas.eastus2-01.azurewebsites.net)
 
----
 
 ## 📖 Story & Intent
 
