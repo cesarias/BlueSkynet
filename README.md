@@ -96,11 +96,7 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 <img width="600" alt= "image" src="https://i.imgur.com/0dwWGaA.png">
 
 
-* [ ] Entra ID roles setup — *demonstrate RBAC assignments for HR Manager, Intern, Dev*
-* Set up Microsoft Entra ID users:
 
-  * HR Manager, Intern, Dev, Admin roles
-* Assign RBAC roles (Reader, Contributor, Custom RBAC)
 
 ### 3. 🛡️ Security Hardening
 
@@ -143,11 +139,12 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 <img width="600" alt= "image" src="https://i.imgur.com/3yBQua9.jpeg">
 
-📸 **Capture:**
 
-* [ ] Cost analysis chart & budget alert — *chart from Cost Management + alert config screen*
+<img width="600" alt= "image" src="https://i.imgur.com/7In1Xlt.png">
 
-📸 **Capture:**
+
+<img width="600" alt= "image" src="https://i.imgur.com/A2DBVex.png">
+
 
 * [ ] Cost analysis chart & budget alert — *chart from Cost Management + alert config screen*
 * Set monthly budget (e.g. \$25)
