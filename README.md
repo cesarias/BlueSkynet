@@ -9,6 +9,11 @@
 
 
 
+
+
+
+
+
 # 🧠 Blue Skynet: AI Defense Cloud Infrastructure
 
 Welcome to **Blue Skynet**, a fictional AI defense technology startup focused on protecting next-generation networks using machine learning and proactive cloud security. This project simulates the **entire cloud journey** of a startup — from day one infrastructure setup, to monitoring, budgeting, and compliance.
