@@ -145,11 +145,10 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 <img width="600" alt= "image" src="https://i.imgur.com/A2DBVex.png">
 
+<img width="600" alt= "image" src="https://i.imgur.com/2nlHszB.png">
 
-* [ ] Cost analysis chart & budget alert — *chart from Cost Management + alert config screen*
-* Set monthly budget (e.g. \$25)
-* Create budget alert at 80%
-* Export cost chart and CSV
+
+
 
 ### 6. 🔬 Vulnerability Scanning
 
