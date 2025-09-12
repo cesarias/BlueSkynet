@@ -127,7 +127,7 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 <img width="600" alt= "image" src="https://i.imgur.com/uzCTMDc.png">
 
-<img width="600" alt= "image" src="https://i.imgur.com/uzCTMDc.png">
+<img width="600" alt= "image" src="https://i.imgur.com/VKkY53q.png">
 
 
 
@@ -156,17 +156,10 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 > *"Running Nessus scans today. Expecting high-priority findings on the unpatched VM. Will remediate with PowerShell, then rescan and archive reports."*
 
-📸 **Capture:**
+<img width="600" alt= "image" src="https://i.imgur.com/x5CV9m6.png">
 
-* [ ] Tenable Nessus scan results (before & after remediation) — *export or screenshot findings from Nessus Essentials*
+<img width="600" alt= "image" src="https://i.imgur.com/YL69r5q.png">
 
-📸 **Capture:**
-
-* [ ] Tenable Nessus scan results (before & after remediation) — *export or screenshot findings from Nessus Essentials*
-* Install Nessus Essentials agent on Windows/Linux VMs
-* Run baseline scan
-* Remediate issues (manual + PowerShell)
-* Rescan and export results
 
 ---
 
@@ -235,11 +228,20 @@ To simulate real-world hosting and security, the Blue Skynet GitHub Pages site i
 * **Microsoft Sentinel**: Log access attempts and alerts on anomalies
 * **Application Insights**: Log site usage patterns and behaviors
 
-📸 **Capture:**
 
-* [ ] Static site deployment view in Azure portal — *show Static Web App or Blob config*
-* [ ] Entra ID login screen (if implemented)
-* [ ] Sentinel or App Insights logs related to web access
+<img width="600" alt= "image" src="https://i.imgur.com/Us5Fn6T.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/R50oHE5.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/M6rQkjM.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/0grV3m8.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/zRdWrBz.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/cp4hW7D.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/t91oiXq.png">
 
 ---
 
