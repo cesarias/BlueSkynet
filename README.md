@@ -1,6 +1,14 @@
 <img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
 
 
+## 🔑 Executive Summary
+- Simulates a secure Azure deployment for a fictional AI defense startup.
+- Core stack: App Service + Entra ID, 5 VMs, Key Vault, Sentinel, Defender, Tenable.
+- Aligned with frameworks: NIST 800-53, DISA STIGs, CIS, ISO 27001 (familiar).
+- Demonstrates: secure deployments, vuln mgmt, STIG automation, detection engineering, cost optimization.
+
+
+
 # 🧠 Blue Skynet: AI Defense Cloud Infrastructure
 
 Welcome to **Blue Skynet**, a fictional AI defense technology startup focused on protecting next-generation networks using machine learning and proactive cloud security. This project simulates the **entire cloud journey** of a startup — from day one infrastructure setup, to monitoring, budgeting, and compliance.
