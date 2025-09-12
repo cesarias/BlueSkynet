@@ -103,16 +103,11 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 <img width="600" alt= "image" src="https://i.imgur.com/1NEG9Q8.jpeg">
 
 
-* [ ] Key Vault creation and secrets stored — *show access policies and key names*
-* [ ] PowerShell script being executed on VM — *screenshot script output*
-* [ ] Policy assignment in Azure Policy blade — *screenshot policy assignment (SC-12, region lock)*
-* Apply STIGs via PowerShell (for Windows VMs)
-* Store credentials/secrets in Key Vault
-* Enable Defender for Cloud (free tier)
-* Create & assign Azure Policies:
+<img width="600" alt= "image" src="https://i.imgur.com/TJz6VrV.png">
 
-  * SC-12 encryption enforcement
-  * Restrict to approved regions
+<img width="600" alt= "image" src="https://i.imgur.com/Nmipbmh.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/DS8KAIs.png">
 
 ### 4. 🔍 Monitoring & Logging
 
