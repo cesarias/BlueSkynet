@@ -1,6 +1,6 @@
 <img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
 
-🏗️🚧👷‍♂️ UNDER CONSTRUCTION 🚧🏗️👷‍♂️
+
 # 🧠 Blue Skynet: AI Defense Cloud Infrastructure
 
 Welcome to **Blue Skynet**, a fictional AI defense technology startup focused on protecting next-generation networks using machine learning and proactive cloud security. This project simulates the **entire cloud journey** of a startup — from day one infrastructure setup, to monitoring, budgeting, and compliance.
@@ -111,22 +111,25 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 ### 4. 🔍 Monitoring & Logging
 
-<img width="600" alt= "image" src="https://i.imgur.com/ofcoDb9.png">
+<img width="600" alt= "image" src="https://i.imgur.com/9d9S4cP.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/RNiEsuD.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/bDhhPNw.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/tcRQA3i.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/AWU17f3.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/jx0XHle.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/eTWAsTB.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/uzCTMDc.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/uzCTMDc.png">
 
 
-
-📸 **Capture:**
-
-* [ ] Microsoft Sentinel rule alerts / dashboard — *show alert rules or workbook view*
-
-📸 **Capture:**
-
-* [ ] Microsoft Sentinel rule alerts / dashboard — *show alert rules or workbook view*
-* Set up Log Analytics Workspace
-* Connect VMs to it
-* Enable diagnostic settings for VMs, Storage, Key Vault
-* Deploy Microsoft Sentinel and connect workspace
-* Create analytic rule (e.g., failed login alerts)
 
 ### 5. 📊 Budgeting
 
@@ -141,6 +144,8 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 <img width="600" alt= "image" src="https://i.imgur.com/A2DBVex.png">
 
 <img width="600" alt= "image" src="https://i.imgur.com/2nlHszB.png">
+
+<img width="600" alt= "image" src="https://i.imgur.com/dSFS5wd.png">
 
 
 
