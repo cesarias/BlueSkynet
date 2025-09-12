@@ -86,12 +86,15 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 
 <img width="600" alt= "image" src="https://i.imgur.com/WAAf6pm.png">
 
+<img width="600" alt= "image" src="https://i.imgur.com/8hkwq8m.png">
+
 
 ### 2. 👥 Identity & Access
 
 <img width="600" alt= "image" src="https://i.imgur.com/LGJ9hus.png">
 
-📸 **Capture:**
+<img width="600" alt= "image" src="https://i.imgur.com/0dwWGaA.png">
+
 
 * [ ] Entra ID roles setup — *demonstrate RBAC assignments for HR Manager, Intern, Dev*
 * Set up Microsoft Entra ID users:
