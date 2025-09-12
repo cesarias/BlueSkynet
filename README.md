@@ -80,18 +80,12 @@ You're brought in to build their **secure cloud infrastructure** from scratch.
 <img width="600" alt= "image" src="https://i.imgur.com/pfKKREn.jpeg">
 
 
-📸 **Capture:**
 
-* [ ] Initial VM deployments (Azure portal) — *show resource group, region, B1s size, tags*
-* [ ] NSG rules configuration — *highlight inbound/outbound rule setup*
-* Deploy resource group and VNet
-* Use Bicep or ARM templates to provision:
+<img width="600" alt= "image" src="https://i.imgur.com/p4ny1vn.png">
 
-  * 4 VMs (Windows & Linux), all B1s
-  * NSGs + Subnets
-  * Storage (LRS)
-  * Key Vault (Standard tier)
-* Enable auto-shutdown
+
+<img width="600" alt= "image" src="https://i.imgur.com/WAAf6pm.png">
+
 
 ### 2. 👥 Identity & Access
 
